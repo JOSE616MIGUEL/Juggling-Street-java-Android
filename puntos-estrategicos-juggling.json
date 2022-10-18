@@ -1,0 +1,371 @@
+{
+  "semaforo": {
+    "1-Av-PadreHurtado-Lascondes": {
+      "latitud": -33.413193,
+      "longitud": -70.540716
+    },
+    "2-Av-PadreHurtado-Lascondes2": {
+      "latitud": -33.416473,
+      "longitud": -70.539035
+    },
+    "3-TomásMoro-Lascondes": {
+      "latitud": -33.422222,
+      "longitud": -70.553550
+    },
+    "4-Av-PadreHurtado-Lascondes3": {
+      "latitud": -33.421497,
+      "longitud": -70.537675
+    },
+    "5-Av-AméricoVespucio-Ñuñoa": {
+      "latitud": -33.458934,
+      "longitud": -70.572393
+    },
+    "6-ExequielFernandez-Macul": {
+      "latitud": -33.508701,
+      "longitud": -70.604383
+    },
+    "7-ExequielFernandez-Macul2": {
+      "latitud": -33.495521,
+      "longitud": -70.601895
+    },
+    "8-barrosarana-Sanbernardo": {
+      "latitud": -33.593104013321344,
+      "longitud": -70.69847068346277
+    },
+    "9-Almte-Riveros": {
+      "latitud": -33.611565,
+      "longitud": -70.695148
+    },
+    "10-Av-PortalesOte-Sanbernardo": {
+      "latitud": -33.611460,
+      "longitud": -70.69530
+    },
+    "11-InésdeSuárez-Providencia": {
+      "latitud": -33.436239,
+      "longitud": -70.608149
+    },
+    "12-BellavistadelaFlorida-LaFlorida": {
+      "latitud": -33.515833,
+      "longitud": -70.598308
+    },
+    "13-SantaIsabel-Santiago": {
+      "latitud": -33.447112,
+      "longitud": -70.630297
+    },
+    "14-AlonsodeCordova-LasCondes-RegiónMetropolitana": {
+      "latitud": -33.408053849868054,
+      "longitud": -70.5676334534310
+    },
+    "15-GralRondizzoni-RegiónMetropolitana": {
+      "latitud": -33.470263,
+      "longitud": -70.659720
+    },
+    "16-Av-Viel-Santiago-RegiónMetropolitana": {
+      "latitud": -33.460585,
+      "longitud": -70.656484
+    },
+    "17-SanBernardo-RegiónMetropolitana": {
+      "latitud": -33.608407,
+      "longitud": -70.703967
+    },
+    "18-Av-Lo-Blanco-ElBosque-RegiónMetropolitana": {
+      "latitud": -33.576327,
+      "longitud": -70.692201
+    },
+    "19-LaFlorida-RegiónMetropolitana": {
+      "latitud": -33.547184,
+      "longitud": -70.587926
+    },
+    "20-Cdelarzobispo-Providencia-regionmetropolitana": {
+      "latitud": -33.431451,
+      "longitud": -70.626501
+    },
+    "21-Bellavista-Providencia-regionmetropolitana": {
+      "latitud": -33.430542,
+      "longitud": -70.627863
+    },
+    "22-Pudahuel-Región-Metropolitana": {
+      "latitud": -33.462798,
+      "longitud": -70.737737
+    },
+    "23-Av-Tte-Cruz-Maipú-Región-Metropolitana": {
+      "latitud": -33.471289,
+      "longitud": -70.737069
+    },
+    "24-Sazié-Santiago-Región-Metropolitana": {
+      "latitud": -33.449303,
+      "longitud": -70.660018
+    },
+    "25-Av-Nueva-Providencia-Santiago-Providencia-Región-Metropolitana": {
+      "latitud": -33.428345,
+      "longitud": -70.617197
+    },
+    "27-San-Bernardo-Región-Metropolitana": {
+      "latitud": -33.592218,
+      "longitud": -70.693931
+    },
+    "28-Av-Irarrázaval-Ñuñoa-Región-Metropolitana": {
+      "latitud": -33.452303,
+      "longitud": -70.629110
+    },
+    "29-Los-Olmos-Av-Macul-&-Macul-Región-Metropolitana": {
+      "latitud": -33.479501,
+      "longitud": -70.598997
+    },
+    "30-Av-Escuela-Agrícola-Macul-Región-Metropolitana": {
+      "latitud": -33.490185,
+      "longitud": -70.599693
+    },
+    "31-Av-Las-Rejas-Sur-Estación-Central-Región-Metropolitana": {
+      "latitud": -33.464784,
+      "longitud": -70.705166
+    },
+    "32-El-Bosque-Central-Las-Condes-Providencia-Región-Metropolitana": {
+      "latitud": -33.419991,
+      "longitud": -70.599247
+    },
+    "33-Tobalaba-Providencia-Región-Metropolitana": {
+      "latitud": -33.431759,
+      "longitud": -70.584865
+    },
+    "34-Av-Irarrázaval-Ñuñoa-Región-Metropolitana": {
+      "latitud": -33.454468,
+      "longitud": -70.580058
+    },
+    "35-Américo-Vespucio-Diag-Ote-Ñuñoa-Región-Metropolitana": {
+      "latitud": -33.458960,
+      "longitud": -70.572406
+    },
+    "36-Av-Américo-Vespucio--Peñalolén-Región-Metropolitana": {
+      "latitud": -33.462482,
+      "longitud": -70.573645
+    },
+    "37-Gran-Av-José-Miguel-Carrera-El-Bosque-Región-Metropolitana": {
+      "latitud": -33.545431,
+      "longitud": -70.668239
+    },
+    "38-Av-Concha-y-Toro-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.594341,
+      "longitud": -70.579158
+    },
+    "39-Av-Gabriela-Pte-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.581293,
+      "longitud": -70.597634
+    },
+    "40-Av-Carrascal-Quinta-Normal-Región-Metropolitana": {
+      "latitud": -33.423237,
+      "longitud": -70.692002
+    },
+    "41-Almirante-Blanco-Encalada-Santiago-Región-Metropolitana": {
+      "latitud": -33.458294,
+      "longitud": -70.672064
+    },
+    "42-Vicuña-Mackenna-Ñuñoa-Santiago-Región-Metropolitana": {
+      "latitud": -33.467439,
+      "longitud": -70.626557
+    },
+    "43-San-Eugenio-Ñuñoa-Región-Metropolitana": {
+      "latitud": -33.466788,
+      "longitud": -70.623616
+    },
+    "44-Jose-Joaquin-Perez-Pudahuel-Quinta-Normal-Región Metropolitana": {
+      "latitud": -33.431749,
+      "longitud": -70.692620
+    },
+    "45-Pío-Nono-Providencia-Recoleta-Región-Metropolitana": {
+      "latitud": -33.434789,
+      "longitud": -70.635516
+
+    },
+    "46-Bellavista-Santiago-Recoleta-Región-Metropolitana": {
+      "latitud": -33.434621,
+      "longitud": -70.638667
+    },
+    "47-av-Sta-maria-Recoleta-Región-Metropolitana": {
+      "latitud": -33.434927,
+      "longitud": -70.638819
+    },
+    "48-El-Bosque-Región-Metropolitana": {
+      "latitud": -33.560213,
+      "longitud": -70.670582
+    },
+    "49-Las-Industrias-La-Florida-San-Joaquín-Región-Metropolitana": {
+      "latitud": -33.508918,
+      "longitud": -70.604460
+
+    },
+    "50-Av-La-Florida-La-Florida-Región-Metropolitana": {
+      "latitud": -33.510397,
+      "longitud": -70.588320
+    },
+    "51-Tobalaba-Peñalolén-Región-Metropolitana": {
+      "latitud": -33.462646,
+      "longitud": -70.551726
+    },
+    "52-Av-Larrain-La-Reina-Región-Metropolitana": {
+      "latitud": -33.452243,
+      "longitud": -70.558956
+    },
+    "53-Principe-de-gales-La-Reina-Región-Metropolitana": {
+      "latitud": -33.441935,
+      "longitud": -70.534632
+    },
+    "54-Av-Padre-Hurtado-Sur-Las-Condes-Región-Metropolitana": {
+      "latitud": -33.416437,
+      "longitud": -70.539075
+    },
+    "55-Av-Padre-Hurtado-Sur-Las-Condes-Región-Metropolitana": {
+      "latitud": -33.413160,
+      "longitud": -70.540532
+    },
+    "56-Av-Padre-Hurtado-Sur-Las-Condes-Región-Metropolitana": {
+      "latitud": -33.409191,
+      "longitud": -70.542283
+    },
+    "57-Av-Padre-Hurtado-Las-Condes-Región-Metropolitana": {
+      "latitud": -33.389997,
+      "longitud": -70.548022
+    },
+    "58-Av-Padre-Hurtado-Nte-Vitacura-Región-Metropolitana": {
+      "latitud": -33.383814,
+      "longitud": -70.551235
+    },
+    "59-Av-Alfredo-Silva-Carvallo-Maipú-Región-Metropolitana": {
+      "latitud": -33.531489,
+      "longitud": -70.774868
+    },
+    "60-Av-Alfredo-Silva-Carvallo-nueva-san-martin-Maipú-Región-Metropolitana": {
+      "latitud": -33.524563,
+      "longitud": -70.779225
+    },
+    "61-Maipú-San-Bernardo-Región-Metropolitana": {
+      "latitud": -33.589279,
+      "longitud": -70.706934
+    },
+    "62-El- Bosque-Región-Metropolitana": {
+      "latitud": -33.560215,
+      "longitud": -70.670576
+
+    },
+    "63-Constitución-Illapel-Coquimbo": {
+      "latitud": -31.631451,
+      "longitud": -71.164983
+
+    },
+    "64-Dieciocho-Santiago-Región-Metropolitana": {
+      "latitud": -33.453187,
+      "longitud": -70.656897
+
+    },
+    "65-Av-Manuel-Rodríguez-Sur-Santiago-Región-Metropolitana": {
+      "latitud": -33.452655,
+      "longitud": -70.659016
+
+    },
+    "66-Av-Las-Rejas-Sur-Santiago-Estación-Central-Región-Metropolitana": {
+      "latitud": -33.464473,
+      "longitud": -70.704927
+
+    },
+    "67-Errázuriz-Valparaíso": {
+      "latitud": -33.040958,
+      "longitud": -71.624650
+
+    },
+    "68-Av-Concha-y-Toro-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.594345,
+      "longitud": -70.579161
+
+    },
+    "69-Av-Concha-y-Toro-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.602984,
+      "longitud": -70.577276
+
+    },
+    "70-Gabriela-Pte-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.580054,
+      "longitud":  -70.587388
+
+    },
+    "71-Av-Sta-Rosa-San-Miguel-San-Joaquín-Región-Metropolitana": {
+      "latitud": -33.495303,
+      "longitud": -70.640012
+
+    },
+    "72-Av-La-Marina-Viña-del-Mar-Valparaíso": {
+      "latitud": -33.021420,
+      "longitud": -71.560826
+
+    },
+    "73-Av-La-Marina-Viña-del-Mar-Valparaíso": {
+      "latitud": -33.021427,
+      "longitud": -71.560854
+
+    },
+    "74-Av-Valparaíso-Valparaíso-Viña-del-Mar-Valparaíso": {
+      "latitud": -33.023705,
+      "longitud": -71.561372
+
+    },
+    "75-C-Vianna-Valparaíso-Viña-del-Mar- Valparaíso": {
+      "latitud": -33.025045,
+      "longitud": -71.560093
+
+    },
+    "76-Av-Argentina-Valparaíso": {
+      "latitud": -33.045244,
+      "longitud": -71.605075
+
+    },
+    "77-Av-Los-Leones-Providencia-Santiago-Región-Metropolitana": {
+      "latitud": -33.427157,
+      "longitud": -70.603579
+
+    },
+    "78-Av-Fermín-Vivaceta-Conchalí-Región-Metropolitana": {
+      "latitud": -33.399717,
+      "longitud": -70.672261
+
+    },
+    "79-Av-Independencia-Santiago-Conchalí-Región-Metropolitana": {
+      "latitud": -33.373794,
+      "longitud": -70.686434
+
+    },
+    "80-Av-Independencia-Santiago-Conchalí-Región-Metropolitana": {
+      "latitud": -33.373589,
+      "longitud": -70.686233
+
+    },
+    "81-Condell-Renca-Región-Metropolitana": {
+      "latitud": -33.410553,
+      "longitud": -70.723618
+
+    },
+    "82-Libertador-Bernardo-OHiggins-Rancagua-OHiggins": {
+      "latitud": -34.166527,
+      "longitud": -70.734388
+
+    },
+    "83-Libertador-Bernardo-OHiggins-Rancagua-OHiggins": {
+      "latitud": -34.166136,
+      "longitud": -70.734286
+
+    },
+    "84-Rancagua-OHiggins": {
+      "latitud": -34.155133,
+      "longitud": -70.737798
+
+    },
+    "85-Brasil-Rancagua-VI-Ohiggins": {
+      "latitud": -34.169299,
+      "longitud": -70.747586
+
+    },
+    "86-Viña-del-Mar-Rancagua-OHiggins": {
+      "latitud": -34.168683,
+      "longitud": -70.751869
+
+    }
+  }
+}

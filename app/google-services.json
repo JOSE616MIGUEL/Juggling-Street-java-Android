@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1359475217",
+    "project_id": "juggling-street",
+    "storage_bucket": "juggling-street.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1359475217:android:bf0fe516c44d13167ef7b0",
+        "android_client_info": {
+          "package_name": "com.libreria.j_street_version_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1359475217-2jfoe2pvt74geqdmq84k8vu74r0t9h90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.libreria.j_street_version_2",
+            "certificate_hash": "9c3bd4bd982db26984b735b689e85e20e721bc98"
+          }
+        },
+        {
+          "client_id": "1359475217-hoo9ggjjhefbog6tcbkaj7q52u0tbj55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDOezxy74eKlU0q-_H0kDmQUUdvZ1sS9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1359475217-hoo9ggjjhefbog6tcbkaj7q52u0tbj55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
