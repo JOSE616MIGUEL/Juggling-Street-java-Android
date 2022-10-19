@@ -365,7 +365,22 @@
     "86-Viña-del-Mar-Rancagua-OHiggins": {
       "latitud": -34.168683,
       "longitud": -70.751869
-
+    },
+    "87-La-Florida-Diego-Portales-Santiago-Región-Metropolitana": {
+      "latitud": -33.562166,
+      "longitud": -70.575351
+    },
+    "88-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.574273,
+      "longitud": -70.554418
+    },
+    "89-Av-Concha-y-Toro-A-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.579321,
+      "longitud": -70.582006
+    },
+    "90-Av-México-Puente-Alto-Región-Metropolitana": {
+      "latitud": -33.596390,
+      "longitud": -70.558040
     }
   }
 }
